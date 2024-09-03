@@ -1,4 +1,11 @@
-## Hi there 👋
+### About Me
+
++ 🌱 I’m currently learning Machine Learning & Web Dev
++ :robot: Used to dev robotics and familiar with Embeded System
++ :eyes: Looking for internship regarding Machine Learning & Web Dev
++ 📫 How to reach me: bailongc@usc.edu
+
+  
 
 <!--
 **yaofen99/yaofen99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
++ 
